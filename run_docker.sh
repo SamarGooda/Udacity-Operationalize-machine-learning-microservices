@@ -12,4 +12,4 @@ docker image ls
 
 # Step 3: 
 # Run flask app
-docker run -d -p 80:80 loadtest
+docker run -p 80:80 loadtest

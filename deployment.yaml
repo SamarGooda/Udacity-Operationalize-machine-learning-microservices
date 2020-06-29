@@ -15,5 +15,3 @@ spec:
       containers:
       - name: udacityapp
         image: samargooda/udacity
-        ports:
-        - containerPort: 80

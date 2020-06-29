@@ -17,4 +17,4 @@ kubectl get pods
 
 # Step 4:
 # Forward the container port to a host
-kubectl port-forward deployment/udacity 80 80
+kubectl port-forward deployment/udacity-app-deployment 80 80
