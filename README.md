@@ -1,4 +1,5 @@
-<include a CircleCI status badge, here>
+
+![<ORG_NAME>](https://circleci.com/gh/SamarGooda/Udacity-Operationalize-machine-learning-microservices.svg?style=svg)
 
 ## Project Overview
 
