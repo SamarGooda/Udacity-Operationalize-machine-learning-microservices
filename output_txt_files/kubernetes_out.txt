@@ -1,9 +1,8 @@
-<paste log output from Kubernetes-mediated prediction, here>
-
+[samargooda@instance-1 Udacity_Operationalize_a_Machine_Learning_Microservice_API]$ kubectl get pods
 
 NAME                                    READY   STATUS    RESTARTS   AGE
-ngn-86958df657-qxvhp                    1/1     Running   2          29d
-ngn1-69d9bbdd6c-wb4xj                   1/1     Running   2          29d
+ngn-86958df657-qxvhp                    1/1     Running   0          29d
+ngn1-69d9bbdd6c-wb4xj                   1/1     Running   0          29d
 udacity-app-deployment-fb8b657b-clfzq   1/1     Running   0          49m
 udacity-app-deployment-fb8b657b-wm8m6   1/1     Running   0          49m
 udacity-app-deployment-fb8b657b-z97vl   1/1     Running   0          49m
